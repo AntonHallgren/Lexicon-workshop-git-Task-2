@@ -15,6 +15,20 @@
 
 ---
 
+And this is how it was written in markdown
+```markdown
+## **Table of Contents**
+1. [Introduction](#introduction)
+2. [Headers](#headers)
+3. [Formatting Text](#formatting-text)
+4. [Lists](#lists)
+5. [Links and Images](#links-and-images)
+6. [Tables](#tables)
+7. [Code Blocks](#code-blocks)
+8. [Git Commands Section](#git-commands-section)
+9. [Conclusion](#conclusion)
+```
+
 ## **Introduction**
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. This guide covers common Markdown elements and how to use them.
 
@@ -121,3 +135,5 @@ Markdown is a simple, flexible, and powerful language for creating documents and
 - *Italic Text:* `*Italic*`
 - `Inline Code:` `` `Code` ``
 - [Hyperlink Example](https://example.com)
+
+
